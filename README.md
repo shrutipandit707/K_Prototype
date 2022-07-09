@@ -1,5 +1,5 @@
-# Unsupervised K-Mode Clustering for Banking Data
-> In this case study, we are attempting to solve a real world business problem using Unsupervised Clustering K-Mode techniques. The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+# Unsupervised K-Prototype Clustering for Blood Transfusion Datset
+> In this case study, we are attempting to solve a real world business problem using Unsupervised Clustering K-Prototype techniques. The data is related with Blood Transfusion.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,16 +11,16 @@
 ## General Information
 - Provide general information about your project here.
 
-We will be using Unsupervised Clustering K-Mode techniques for Online Retail Data.
+We will be using Unsupervised Clustering K-Prototype techniques for Blood Transfusion.
 
 - What is the background of your project?
 
-In this case study, we are attempting to solve a real world business problem using Unsupervised Clustering K-Mode techniques. The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+In this case study, we are attempting to solve a real world business problem using Unsupervised Clustering K-Prototype techniques. The data is related with Blood Transfusion.
 
 
 - Business Problem Statement:
 
-In this case study, we are attempting to solve a real world business problem using Unsupervised Clustering K-Mode techniques. The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+In this case study, we are attempting to solve a real world business problem using Unsupervised Clustering K-Prototype techniques. The data is related with Blood Transfusion.
 
 - What is the dataset that is being used?
 
